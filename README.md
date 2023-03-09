@@ -1,4 +1,8 @@
 ### Hi there 👋
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ayato-san)
+![Stats2](https://github-readme-streak-stats.herokuapp.com/?user=Ayato-san)
+### languages
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayato-san)
 
 <!--
 **Ayato-san/Ayato-san** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
