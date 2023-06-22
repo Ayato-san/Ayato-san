@@ -21,9 +21,12 @@ Many of my projects are related to my activities (like a discord bot or stream w
 
 ## Current Projects
 
--   [Writing my web site](https://github.com/Ayato-san/ayato-san.fr)
+-   [StreamElements widgets](https://github.com/Ayato-san/streamelements-widgets)
+-   [Discord bot](https://github.com/Ayato-san/otaku-spirit)
+-   [API for my web sites](https://github.com/Ayato-san/api.ayato-san.fr)
+-   [Rewriting my web site](https://github.com/Ayato-san/ayato-san.fr)
+-   [Rewriting my portfolio](https://github.com/Ayato-san/ayato-homepage)
 
 ## Old Projects
 
--   [Writing my portfolio](https://github.com/Ayato-san/ayato-homepage)
 -   [CSS components library in neumorphism design](https://github.com/Ayato-san/Neumorphic-css)
