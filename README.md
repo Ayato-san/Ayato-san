@@ -22,8 +22,8 @@ Many of my projects are related to my activities (like a discord bot or stream w
 ## Current Projects
 
 -   [Writing my web site](https://github.com/Ayato-san/ayato-san.fr)
--   [Writing my portfolio](https://github.com/Ayato-san/ayato-homepage)
 
 ## Old Projects
 
+-   [Writing my portfolio](https://github.com/Ayato-san/ayato-homepage)
 -   [CSS components library in neumorphism design](https://github.com/Ayato-san/Neumorphic-css)
